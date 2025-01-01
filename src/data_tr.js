@@ -40,7 +40,7 @@ const data_tr = {
         name: "Teknolojik Yemekler",
         description:
           "Teknolojik Yemekler, Workintech Fullstack Pro Programı'nda bir ödev kapsamında geliştirilen React tabanlı bir frontend projesidir. Bu uygulama Yemeksepeti gibi platformların işlevselliğini taklit ederek kullanıcıların çeşitli menüler bulmasını, alışveriş sepetine ürün eklemesini ve siparişleri tamamlamasını sağlar. Proje, React bileşenleriyle dinamik kullanıcı arayüzleri oluşturmayı, React'ın yerleşik hook'larını kullanarak durumu etkili bir şekilde yönetmeyi ve cihazlar arasında en iyi kullanıcı deneyimi için duyarlı tasarımı uygulamayı vurgular.",
-        techStack: ["React", "Duyarlı UI", "Cypress"],
+        techStack: ["React", "Duyarlı UI", "Cypress","DENEME"],
         github: "https://github.com/berkkanrencber/Workintech_S8_Pizza_React_Project",
         image: "public/workintech_project.png",
       },
