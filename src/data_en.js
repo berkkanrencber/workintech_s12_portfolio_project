@@ -39,7 +39,7 @@ const data_en = {
           "Technological Dishes is a web application designed as a React-based frontend project, developed as part of an assignment for the Fullstack Pro Program at Workintech. This application mimics the functionality of platforms like Yemeksepeti, enabling users to find a variety of menus, add items to a shopping cart, and complete orders. The project emphasizes building dynamic user interfaces with React components, managing state effectively using React's built-in hooks, and implementing responsive design for an optimal user experience across devices.",
         techStack: ["React", "Responsive UI", "Cypress"],
         github: "https://github.com/berkkanrencber/Workintech_S8_Pizza_React_Project",
-        image: "/assests/workintech_project.png",
+        image: "/assets/workintech_project.png",
       },
       {
         name: "MovieApp",
@@ -47,7 +47,7 @@ const data_en = {
           "MovieApp is a mobile application developed for the Android platform using the Kotlin programming language. This application provides users with information about popular, top-rated, currently showing, and upcoming movies. Users can search for movies, view movie details, and add movies to their favorites list.",
         techStack: ["Kotlin", "Retrofit", "ROOM","MVVM","Coil"],
         github: "https://github.com/berkkanrencber/MovieApp",
-        image: "/assests/movieapp.png",
+        image: "/assets/movieapp.png",
       },
       {
         name: "Atech Software Website",
@@ -55,7 +55,7 @@ const data_en = {
           "The project features a backend built with Node.js, a frontend developed using Angular and styled with Tailwind CSS, and a database managed with MSSQL. My contributions included API development using the Model-Routes-Controllers-Services architecture, enhancing frontend interactivity and responsiveness, and performing database management tasks such as designing tables, creating triggers, and writing stored procedures in MSSQL.",
         techStack: ["Angular", "Node.js", "MSSQL", "Restful API"],
         github: "https://github.com/hakanuz/atechyazilim",
-        image: "/assests/atech.png",
+        image: "/assets/atech.png",
         site: "https://www.atechyazilim.com",
       },
     ],
