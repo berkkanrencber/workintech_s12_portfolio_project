@@ -8,7 +8,7 @@ const data_tr = {
       email: "berkkanrencber@gmail.com",
       github: "https://github.com/berkkanrencber",
       linkedin: "https://www.linkedin.com/in/berkkan-ren%C3%A7ber-906a1618b/",
-      image: "../src/assets/cv_photo.jpg",
+      image: "public/cv_photo.jpg",
     },
     skills: [
       {
@@ -42,7 +42,7 @@ const data_tr = {
           "Teknolojik Yemekler, Workintech Fullstack Pro Programı'nda bir ödev kapsamında geliştirilen React tabanlı bir frontend projesidir. Bu uygulama Yemeksepeti gibi platformların işlevselliğini taklit ederek kullanıcıların çeşitli menüler bulmasını, alışveriş sepetine ürün eklemesini ve siparişleri tamamlamasını sağlar. Proje, React bileşenleriyle dinamik kullanıcı arayüzleri oluşturmayı, React'ın yerleşik hook'larını kullanarak durumu etkili bir şekilde yönetmeyi ve cihazlar arasında en iyi kullanıcı deneyimi için duyarlı tasarımı uygulamayı vurgular.",
         techStack: ["React", "Duyarlı UI", "Cypress"],
         github: "https://github.com/berkkanrencber/Workintech_S8_Pizza_React_Project",
-        image: "../src/assets/workintech_project.png",
+        image: "public/workintech_project.png",
       },
       {
         name: "MovieApp",
@@ -50,7 +50,7 @@ const data_tr = {
           "MovieApp, Kotlin programlama dili kullanılarak Android platformu için geliştirilmiş bir mobil uygulamadır. Bu uygulama kullanıcılara popüler, en çok oy alan, şu anda gösterimde olan ve yakında gösterime girecek filmler hakkında bilgi sağlar. Kullanıcılar filmleri arayabilir, film detaylarını görüntüleyebilir ve filmleri favori listelerine ekleyebilir.",
         techStack: ["Kotlin", "Retrofit", "ROOM", "MVVM", "Coil"],
         github: "https://github.com/berkkanrencber/MovieApp",
-        image: "../src/assets/movieapp.png",
+        image: "public/movieapp.png",
       },
       {
         name: "Atech Yazılım Web Sitesi",
@@ -58,7 +58,7 @@ const data_tr = {
           "Proje, backend kısmında Node.js, frontend kısmında Angular ve Tailwind CSS ile geliştirilmiş, MSSQL ile veritabanı yönetimi yapılmıştır. Katkılarım arasında Model-Routes-Controllers-Services mimarisini kullanarak API geliştirme, frontend etkileşimlerini ve duyarlılığı artırma ve MSSQL'de tablolar tasarlama, tetikleyiciler oluşturma ve saklı prosedürler yazma gibi veritabanı yönetim görevleri bulunmaktadır.",
         techStack: ["Angular", "Node.js", "MSSQL", "Restful API"],
         github: "https://github.com/hakanuz/atechyazilim",
-        image: "../src/assets/atech.png",
+        image: "public/atech.png",
         site: "https://www.atechyazilim.com",
       },
     ],
